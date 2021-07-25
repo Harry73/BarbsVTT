@@ -1,0 +1,21 @@
+{
+  "name": "barbs",
+  "title": "Barbarians of Lemuria",
+  "description": "A system for playing a custom TTRPG game game in the Foundry Virtual Tabletop environment.",
+  "version": "1.0",
+  "author": "Harry73",
+  "scripts": [],
+  "esmodules": ["barbs.js"],
+  "styles": ["barbs.css"],
+  "packs": [],
+  "languages": [],
+  "socket": true,
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "attributes.hp",
+  "secondaryTokenAttribute": null,
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
+  "url": "https://github.com/Harry73/BarbsVTT",
+  "manifest": "https://raw.githubusercontent.com/Harry73/BarbsVTT/master/system.json"
+}
